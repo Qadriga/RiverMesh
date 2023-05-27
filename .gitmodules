@@ -1,0 +1,6 @@
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = https://github.com/espressif/kicad-libraries.git
+[submodule "esp_kicadlib"]
+	path = esp_kicadlib
+	url = https://github.com/espressif/kicad-libraries.git
